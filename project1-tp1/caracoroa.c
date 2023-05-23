@@ -3,11 +3,10 @@
 #include <stdio.h>
 
 int main() {
-
     int numjogos, contador, resultado;
 
 while(1) {
-    
+
     do {
         printf("Insira o numero de jogos: ");
         scanf("%d", &numjogos);
@@ -19,7 +18,6 @@ while(1) {
             else {
                 break;
             }
-
     } while(1 <= numjogos || numjogos <= 10000);
 
     int vitmaria = 0, vitjoao = 0;
@@ -38,10 +36,7 @@ while(1) {
 
                     if(resultado == 1)
                         vitjoao++;
-                }
-                    
+                }  
         }
         printf("Maria ganhou %d vez(es) e Joao ganhou %d vez(es)! \n", vitmaria, vitjoao);
-
-}
-}
+}}
