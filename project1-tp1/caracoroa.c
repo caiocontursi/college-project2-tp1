@@ -1,4 +1,4 @@
-// Jogo de cara ou coroa. Segunda questão do Trabalho de Técnicas de Programação I, primeiro período 2023.
+// Jogo de cara ou coroa. Segunda questão do trabalho de Técnicas de Programação I, primeiro período 2023.
 
 #include <stdio.h>
 
