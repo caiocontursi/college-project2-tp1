@@ -43,6 +43,5 @@ while(1) {
         }
         printf("Maria ganhou %d vez(es) e Joao ganhou %d vez(es)! \n", vitmaria, vitjoao);
 
-return 0;
 }
 }
